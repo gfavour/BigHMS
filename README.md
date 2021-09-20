@@ -3,3 +3,8 @@ BigHMS is a highly flexible and simple Hotel Management System (HMS) for the hot
 
 With BigHMS you can generate comprehensive daily, monthly and yearly report, and invoice/receipt for customers. 
 The good thing about Bighms is ability to control your hotel RFID doors to create door card and monitor your transactions against thefts, because with our software no the door card cannot be created, so this will prevents theft that do occur within hotel staffs.
+
+# DEMO LINK
+For more Information visit www.progmatech.com
+Demo link goto www.bighms.com/portal
+login with username: admin password is 111 or password
